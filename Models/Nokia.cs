@@ -16,6 +16,6 @@ namespace DesafioPOO.Models
             Console.WriteLine($"Instalando o aplicativo {nomeApp} no Nokia" );
         }
     
-        // TODO: Sobrescrever o método "InstalarAplicativo"
+        // TODO: Implementado e sobrescrever o método "InstalarAplicativo"
     }
 }
